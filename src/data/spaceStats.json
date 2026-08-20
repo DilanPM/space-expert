@@ -1,0 +1,191 @@
+[
+  {
+    "stat": "Cost to launch (per payload mass)",
+    "unit": "$/kg",
+    "label": "Falcon9",
+    "value": "2600",
+    "source": "https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit?time=1975..latest&country=~Vega"
+  },
+  {
+    "stat": "Cost to launch (per payload mass)",
+    "unit": "$/kg",
+    "label": "Ariane 5G",
+    "value": "10000",
+    "source": null
+  },
+  {
+    "stat": "Cost to launch (per payload mass)",
+    "unit": "$/kg",
+    "label": "Vega",
+    "value": "20000",
+    "source": null
+  },
+  {
+    "stat": "Cost to launch (per payload mass)",
+    "unit": "$",
+    "label": "Rideshare",
+    "value": "0 - 300k",
+    "source": "https://www.satcatalog.com/insights/cubesat-launch-costs/"
+  },
+  {
+    "stat": "Cost of a launch",
+    "unit": "$",
+    "label": "Falcon9",
+    "value": "67 M",
+    "source": "22 t (LEO), 8 t (GEO) https://spacenews.com/spacexs-new-price-chart-illustrates-performance-cost-of-reusability/"
+  },
+  {
+    "stat": "Cost of a launch",
+    "unit": "$",
+    "label": "Falcon Heavy",
+    "value": "90 M",
+    "source": "54 t (LEO), 22 t (GEO)"
+  },
+  {
+    "stat": "Cost of a launch",
+    "unit": "$",
+    "label": "Ariane 5",
+    "value": "175 M",
+    "source": null
+  },
+  {
+    "stat": "Cost of a launch",
+    "unit": "$",
+    "label": "Ariane 6",
+    "value": "80 - 125 M",
+    "source": null
+  },
+  {
+    "stat": "Cost of a satellite",
+    "unit": "$",
+    "label": "Cubesat",
+    "value": "500k - 4M+",
+    "source": null
+  },
+  {
+    "stat": "Cost of a satellite",
+    "unit": "$",
+    "label": "Satellites",
+    "value": "100M - 500M",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "Inactive",
+    "value": "2000",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "Active",
+    "value": "8200",
+    "source": "https://nanoavionics.com/blog/how-many-satellites-are-in-space/"
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "LEO",
+    "value": "7000",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "MEO",
+    "value": "200",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "GEO",
+    "value": "1000",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "Com",
+    "value": "3000",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "EO",
+    "value": "1000",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "Tech Dev",
+    "value": "400",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "Nav",
+    "value": "150",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "Science",
+    "value": "110",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "USA",
+    "value": "3000",
+    "source": "(SpaceX, 1600)"
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "China",
+    "value": "500",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "UK",
+    "value": "450",
+    "source": null
+  },
+  {
+    "stat": "Number of satellites",
+    "unit": "#",
+    "label": "Russia",
+    "value": "170",
+    "source": null
+  },
+  {
+    "stat": "Number of debirs",
+    "unit": "#",
+    "label": "> 10 cm",
+    "value": "36000",
+    "source": "https://sdup.esoc.esa.int/discosweb/statistics/"
+  },
+  {
+    "stat": "Number of debirs",
+    "unit": "#",
+    "label": "1 - 10 cm",
+    "value": "1 M",
+    "source": null
+  },
+  {
+    "stat": "Number of debirs",
+    "unit": "#",
+    "label": "< 1cm",
+    "value": "130 M",
+    "source": null
+  }
+]

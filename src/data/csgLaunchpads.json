@@ -1,0 +1,150 @@
+[
+  {
+    "id": "ensemble-de-lancement-fus-es-sondes",
+    "name": "Ensemble de Lancement Fusées-Sondes",
+    "status": "Inactive",
+    "tenant": "Various companies",
+    "uses": [
+      "Future: Sounding rockets",
+      "Retired: Sounding rockets"
+    ],
+    "info": [],
+    "notableLaunches": [],
+    "coords": [
+      -52.73231,
+      5.20826
+    ],
+    "spaceportId": "guiana-space-centre-csg"
+  },
+  {
+    "id": "ensemble-de-lancement-multilanceurs",
+    "name": "Ensemble de Lancement Multilanceurs",
+    "status": "Inactive · · 2 calls: · - CNES: won by Maia · - ESA: pending",
+    "tenant": "Various companies",
+    "uses": [
+      "Future:",
+      "Miura 5,",
+      "RFA One",
+      "Spectrum",
+      "Zephyr",
+      "SL1",
+      "CALLISTO",
+      "Themis",
+      "Retired:",
+      "Diamant",
+      "ELM is planned to be a reconfigurable multipurpose launch site, similarly to SLC-46 at Cape Canaveral"
+    ],
+    "info": [
+      "Cadence constraints",
+      "PLD/ES advacing well",
+      "DE facing challenges"
+    ],
+    "notableLaunches": [
+      "Only spaceport owned by FR, otherwise"
+    ],
+    "coords": [
+      -52.75258,
+      5.23354
+    ],
+    "spaceportId": "guiana-space-centre-csg"
+  },
+  {
+    "id": "ensemble-de-lancement-vega",
+    "name": "Ensemble de Lancement Vega",
+    "status": "Active",
+    "tenant": "Arianespace",
+    "uses": [
+      "Current: Vega C",
+      "Retired: Europa II, Ariane 1, Ariane 2, Ariane 3, Vega"
+    ],
+    "info": [],
+    "notableLaunches": [
+      "CAT-1, Giotto, IXV, LISA Pathfinder"
+    ],
+    "coords": [
+      -52.775,
+      5.236
+    ],
+    "spaceportId": "guiana-space-centre-csg"
+  },
+  {
+    "id": "ensemble-de-lancement-ariane-2",
+    "name": "Ensemble de Lancement Ariane 2",
+    "status": "Inactive",
+    "tenant": null,
+    "uses": [
+      "Retired: Ariane 2, Ariane 3, Ariane 4"
+    ],
+    "info": [
+      "Waiting for ELA-2 to be rebuild for Vega-E"
+    ],
+    "notableLaunches": [
+      "ERS-1, Infrared Space Observatory"
+    ],
+    "coords": [
+      -52.776,
+      5.232
+    ],
+    "spaceportId": "guiana-space-centre-csg"
+  },
+  {
+    "id": "ensemble-de-lancement-ariane-3",
+    "name": "Ensemble de Lancement Ariane 3",
+    "status": "Inactive",
+    "tenant": "Arianespace",
+    "uses": [
+      "Future: Vega-E",
+      "Retired: Ariane 5"
+    ],
+    "info": [
+      "Vega-C augmented cadence"
+    ],
+    "notableLaunches": [
+      "XMM-Newton, EnviSat, Rosetta, ATV-1 \"Jules Verne\", Herschel, Planck, ATV-5 \"Georges Lemaître\", BepiColombo, James Webb Space Telescope, Jupiter Icey Moons Explorer"
+    ],
+    "coords": [
+      -52.768,
+      5.239
+    ],
+    "spaceportId": "guiana-space-centre-csg"
+  },
+  {
+    "id": "ensemble-de-lancement-ariane-4",
+    "name": "Ensemble de Lancement Ariane 4",
+    "status": "Active",
+    "tenant": "Arianespace",
+    "uses": [
+      "Current: Ariane 6"
+    ],
+    "info": [],
+    "notableLaunches": [],
+    "coords": [
+      -52.79074,
+      5.26258
+    ],
+    "spaceportId": "guiana-space-centre-csg"
+  },
+  {
+    "id": "ensemble-de-lancement-soyouz",
+    "name": "Ensemble de Lancement Soyouz",
+    "status": "Inactive",
+    "tenant": "MaiaSpace",
+    "uses": [
+      "Future: Maia",
+      "Future: ESA Call",
+      "Suspended: Soyuz ST-A, Soyuz ST-B"
+    ],
+    "info": [
+      "Advancing well, almost ready",
+      "A lot of arrangments to be made"
+    ],
+    "notableLaunches": [
+      "Gaia, Sentinel-1A, CHEOPS"
+    ],
+    "coords": [
+      -52.834,
+      5.305
+    ],
+    "spaceportId": "guiana-space-centre-csg"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "manufacturing-facilities",
+    "type": "🏭 Manufacturing Facilities",
+    "elements": "• Cleanrooms, composite lay-up & machining shops · • Additive manufacturing, avionics labs, cable harness rooms · • Propulsion & tank fabrication, EEE parts labs · • Quality control/inspection (CMM, X-ray, NDI) · • Configuration & materials management systems"
+  },
+  {
+    "id": "test-facilities",
+    "type": "🧪 Test Facilities",
+    "elements": "• Structural load & vibration tables · • Acoustic chambers, thermal-vacuum (TVAC) chambers · • Propulsion test stands · • EMI/EMC & anechoic chambers · • Pyroshock rigs · • Software-/hardware-in-the-loop labs"
+  },
+  {
+    "id": "logistics-infrastructure",
+    "type": "🚚 Logistics Infrastructure",
+    "elements": "• Secure warehouses, hazmat storage · • Clean transport containers, payload processing areas · • Customs & export-control workflows · • Ground handling gear (cranes, dollies) · • Multimodal routes (road, rail, air, sea) to factories & launch sites"
+  },
+  {
+    "id": "launch-sites",
+    "type": "🚀 Launch Sites",
+    "elements": "• Integration hangars, mobile/vertical integration systems · • Launch pads with GSE & propellant farms · • Lightning protection, range safety systems · • Weather monitoring, tracking/telemetry links · • Countdown & abort infrastructure"
+  },
+  {
+    "id": "mission-control-centres",
+    "type": "🛰️ Mission Control Centres",
+    "elements": "• Operator consoles, flight dynamics & trajectory tools · • Real-time telemetry processing & commanding · • Anomaly/fault & procedure management · • Linked to ground stations · • Redundant power, communications & recording systems"
+  },
+  {
+    "id": "ground-tracking-stations",
+    "type": "📡 Ground Tracking Stations",
+    "elements": "• Antenna farms (S/X/Ka-band), RF front-ends · • Time/frequency standards, TT&C modems · • Data routing to ops centres · • Coverage planning & frequency licensing · • Remote/autonomous operations support"
+  },
+  {
+    "id": "recovery-systems-reusable-launchers",
+    "type": "♻️ Recovery Systems (Reusable Launchers)",
+    "elements": "• Landing pads or drone ships · • Navigation & guidance beacons · • Parachutes, parafoils, airbags, or crush cores · • Marine & land retrieval infrastructure · • Refurbishment & recertification infrastructure"
+  }
+]

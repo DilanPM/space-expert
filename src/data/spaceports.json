@@ -1,0 +1,445 @@
+[
+  {
+    "id": "guiana-space-centre-csg",
+    "name": "Guiana Space Centre (CSG)",
+    "location": "Kourou",
+    "country": "French Guiana (France / EU)",
+    "launchType": "Vertical",
+    "partners": [
+      "Arianespace / ArianeGroup",
+      "ESA",
+      "CNES",
+      "Avio (Vega-C)"
+    ],
+    "status": "Operational",
+    "status2025": "Operational; Ariane 6 in operational introduction phase (2024–25). European Space Agency",
+    "compatibility": [
+      "Heavy: Ariane 6",
+      "Medium/small: Vega-C, rideshares"
+    ],
+    "euInterest": [
+      "Very high: primary EU sovereign access to GTO and heavy payloads",
+      "Supports Galileo / Copernicus / strategic missions"
+    ],
+    "euFunding": [
+      "High (existing): ESA-funded infrastructure and programmes (EU contributes via ESA budgets)",
+      "Future funding likely for Ariane/Vega sustainment"
+    ],
+    "history": [
+      "Long Ariane history (Ariane-1 → Ariane-5)",
+      "Soyuz operations until 2022",
+      "Vega & Vega-C activity",
+      "Ariane-6 maiden campaigns 2024–25. Centre Spatial Guyanais"
+    ],
+    "nextSteps": [
+      "Scale up Ariane-6 cadence to routine launches",
+      "Vega-C return/regular ops",
+      "integration of rideshare/smallsat services & support for future reusable elements"
+    ],
+    "advantages": [
+      "Near-equator location grants large delta-v advantage for GTO (best European site for heavy GTO missions)",
+      "Extensive on-site processing & tracking infrastructure",
+      "Large, safe downrange area over Atlantic"
+    ],
+    "disadvantages": [
+      "Remote",
+      "complex logistics from Europe",
+      "tropical weather & humidity challenges",
+      "high OPEX"
+    ],
+    "confidence": "internalDB"
+  },
+  {
+    "id": "esrange-space-center",
+    "name": "Esrange Space Center",
+    "location": "Kiruna",
+    "country": "Sweden",
+    "launchType": "Vertical",
+    "partners": [
+      "Swedish Space Corporation (SSC)",
+      "Isar Aerospace (Spectrum)",
+      "other microlaunchers"
+    ],
+    "status": "Operational (suborbital)",
+    "status2025": "Operational for suborbital missions; orbital launch complex established 2023 and preparing for orbital campaigns. SSC - Swedish Space Corporation",
+    "compatibility": [
+      "Microlaunchers: Isar Aerospace (Spectrum) & other small launchers"
+    ],
+    "euInterest": [
+      "High: first mainland EU orbital site",
+      "critical for polar / SSO launches and autonomy"
+    ],
+    "euFunding": [
+      "Medium (indirect): ESA technical support + Horizon/CASSINI R&I funding potential",
+      "Member-state co-funding likely"
+    ],
+    "history": [
+      "50+ years of sounding rockets & balloons",
+      "2023: orbital pad inaugurated / conversion work to host microlaunchers",
+      "growing ground-station & test infrastructure"
+    ],
+    "nextSteps": [
+      "First commercial orbital launches (Isar Spectrum & other microlaunchers)",
+      "pad upgrades for high cadence & reusable-stage testing",
+      "establish regular SSO launch cadence"
+    ],
+    "advantages": [
+      "Excellent for polar / sun-synchronous orbits",
+      "large unpopulated northbound drop corridors",
+      "mature test range & ground station cluster",
+      "strong state backing"
+    ],
+    "disadvantages": [
+      "Arctic weather & short seasonal windows",
+      "remote logistics",
+      "not suited for GTO"
+    ],
+    "confidence": "internalDB"
+  },
+  {
+    "id": "and-ya-spaceport-nordmela",
+    "name": "Andøya Spaceport (Nordmela)",
+    "location": "Andøya island (Nordmela)",
+    "country": "Norway",
+    "launchType": "Vertical",
+    "partners": [
+      "Andøya Space / Andøya Spaceport",
+      "Isar Aerospace (Spectrum)",
+      "other microlaunch providers"
+    ],
+    "status": "Licensed; opening operations",
+    "status2025": "Licensed and conducting orbital test campaigns; Isar Aerospace conducted inaugural Spectrum test campaign (Mar 30, 2025 — early flight terminated safely in range) — milestone for orbital attempts from continental Europe. Isar Aerospace+1",
+    "compatibility": [
+      "Microlaunchers: Isar Aerospace (Spectrum) & others"
+    ],
+    "euInterest": [
+      "Medium–High: important for polar access and redundancy in northern Europe"
+    ],
+    "euFunding": [
+      "Low–Medium (indirect): no direct EU structural funds (Norway non-EU)",
+      "ESA programme support possible"
+    ],
+    "history": [
+      "Decades of suborbital heritage (since 1960s)",
+      "infrastructure upgraded for orbital operations",
+      "Isar partnership for Spectrum"
+    ],
+    "nextSteps": [
+      "Continue test campaigns and commence commercial Spectrum launches",
+      "scale payload integration & cadence",
+      "sign further launch customer contracts"
+    ],
+    "advantages": [
+      "Prime northern polar launch geometry with clear maritime safety corridors",
+      "two-site redundancy with Esrange for some providers",
+      "designed for high cadence"
+    ],
+    "disadvantages": [
+      "Severe weather windows can disrupt operations",
+      "island logistics and costs",
+      "environmental concern management"
+    ],
+    "confidence": "internalDB"
+  },
+  {
+    "id": "saxavord-spaceport-lamba-ness",
+    "name": "SaxaVord Spaceport (Lamba Ness)",
+    "location": "Unst (Shetland Islands)",
+    "country": "United Kingdom (Scotland)",
+    "launchType": "Vertical",
+    "partners": [
+      "Rocket Factory Augsburg (RFA ONE)",
+      "potential other tenants (Skyrora, HyImpulse etc.)"
+    ],
+    "status": "Fully licensed",
+    "status2025": "Fully licensed (UK CAA spaceport & range licences granted); pre-operational (pads & range in advanced readiness). saxavord.com+1",
+    "compatibility": [
+      "Small/medium: Rocket Factory Augsburg (RFA ONE), potential others"
+    ],
+    "euInterest": [
+      "Medium: useful for European launch providers despite UK non-EU status",
+      "strengthens SSO capability"
+    ],
+    "euFunding": [
+      "Low (indirect): UK non-EU",
+      "launcher firms may get ESA funding indirectly",
+      "commercial use by EU customers possible"
+    ],
+    "history": [
+      "Licences granted 2023",
+      "pad construction and dry runs",
+      "multi-pad masterplan to host several small launchers"
+    ],
+    "nextSteps": [
+      "RFA ONE maiden attempts & subsequent operational launches",
+      "expand multi-pad offerings and service stack (payload processing, tracking)"
+    ],
+    "advantages": [
+      "Excellent polar / SSO access from high latitude",
+      "multi-user design",
+      "first fully licensed vertical UK site (western Europe precedent)"
+    ],
+    "disadvantages": [
+      "Extremely remote",
+      "logistics & harsh weather",
+      "community / environmental considerations",
+      "infrastructure scaling required"
+    ],
+    "confidence": "internalDB"
+  },
+  {
+    "id": "sutherland-space-hub-sutherland-a-mh-ine",
+    "name": "Sutherland (Space Hub Sutherland / A’ Mhòine)",
+    "location": "A’ Mhòine peninsula (near Tongue)",
+    "country": "United Kingdom (Scotland)",
+    "launchType": "Vertical",
+    "partners": [
+      "Orbex (Prime)",
+      "originally designed as a dedicated Orbex site"
+    ],
+    "status": "Under construction",
+    "status2025": "Under construction; project status has fluctuated — Orbex had planned first flights but reported adjustments to timelines / project pauses (company shifted some focus to alternate sites). orbex.space+1",
+    "compatibility": [
+      "Dedicated to Orbex Prime (microlauncher)"
+    ],
+    "euInterest": [
+      "Medium: green-launch, low-carbon approach valued by EU stakeholders (if used by European actors)"
+    ],
+    "euFunding": [
+      "Low (indirect): no direct EU structural funds",
+      "Orbex has taken ESA/UKSA R&D support in past"
+    ],
+    "history": [
+      "Groundworks & environmental approvals completed in phases",
+      "Orbex engine & vehicle test programmes progressed",
+      "project intermittently paused / refocused in 2024–25"
+    ],
+    "nextSteps": [
+      "If reactivated: Orbex Prime maiden launch (target window previously 2025–26)",
+      "otherwise site may host alternative small-launcher customers"
+    ],
+    "advantages": [
+      "Low-carbon launch concept using bio-propane & lightweight structures",
+      "dedicated facility optimised for Prime",
+      "small physical footprint to protect peatland ecology"
+    ],
+    "disadvantages": [
+      "Single-user model limits diversification",
+      "environmental scrutiny on peatland / habitats",
+      "timeline risk and funding sensitivity"
+    ],
+    "confidence": "internalDB"
+  },
+  {
+    "id": "spaceport-cornwall-newquay",
+    "name": "Spaceport Cornwall (Newquay)",
+    "location": "Newquay (Cornwall Airport)",
+    "country": "United Kingdom (England)",
+    "launchType": "Horizontal (air-launch)",
+    "partners": [
+      "Former partner: Virgin Orbit (LauncherOne / Cosmic Girl)",
+      "currently seeking new horizontal launch operator(s)"
+    ],
+    "status": "Licensed",
+    "status2025": "Licensed and operational as an air-launch hub, but has no active launcher partner after Virgin Orbit’s collapse / cessation of operations post-2023 mission. NASASpaceFlight.com",
+    "compatibility": [
+      "Horizontal / air-launch concepts (LauncherOne style)"
+    ],
+    "euInterest": [
+      "Low: limited EU strategic value unless EU companies operate there"
+    ],
+    "euFunding": [
+      "Low: no EU funding (UK non-EU)",
+      "possible commercial partnerships only"
+    ],
+    "history": [
+      "Jan 2023: “Start Me Up” attempt (LauncherOne drop succeeded but second-stage anomaly prevented orbital insertion)",
+      "Virgin Orbit ceased operations afterward"
+    ],
+    "nextSteps": [
+      "Seek new horizontal launch providers or adapt facility for satellite integration, R&D & smallsat services",
+      "attract aircraft-launched or horizontal systems"
+    ],
+    "advantages": [
+      "Uses existing long runway & airport infrastructure",
+      "flexible launch azimuths via aircraft",
+      "lower fixed infra cost than vertical sites"
+    ],
+    "disadvantages": [
+      "Dependent on finding replacement air-launch operator",
+      "air-launch payload limits",
+      "weather constraints at lower altitudes can still impact ops"
+    ],
+    "confidence": "internalDB"
+  },
+  {
+    "id": "santa-maria-spaceport-azores-malbusca",
+    "name": "Santa Maria Spaceport (Azores — Malbusca)",
+    "location": "Malbusca / Santa Maria Island",
+    "country": "Portugal (Azores)",
+    "launchType": "Vertical (primary) — also support for horizontal concepts",
+    "partners": [
+      "Atlantic Spaceport Consortium (ASC)",
+      "interest / proposals historically from: ArianeGroup, Astos Solutions, Isar Aerospace, PLD Space, Rocket Factory Augsburg, Virgin Orbit (historical EOIs)."
+    ],
+    "status": "Licensed",
+    "status2025": "Development phase—Portugal granted the first spaceport operator licence to the Atlantic Spaceport Consortium (ASC) for Santa Maria (Aug 2025 licensing milestone). ASC+1",
+    "compatibility": [
+      "Planned multi-user: potential interest from RFA, Isar, PLD, ArianeGroup (EOIs historically)",
+      "vertical & flexible azimuths"
+    ],
+    "euInterest": [
+      "Very high (growing): strategic Atlantic downrange gives complementary capabilities to CSG & mainland sites",
+      "strong EU autonomy interest"
+    ],
+    "euFunding": [
+      "Medium–High (likely): ESA technical support already",
+      "high probability of EU funding (CEF / Horizon / strategic programmes) and national co-funding"
+    ],
+    "history": [
+      "2018–2024: multiple feasibility studies & 14 proposals in response to national calls (ArianeGroup, Isar, PLD, RFA among respondents)",
+      "ESA provided technical support for studies",
+      "2025: ASC licence to operate the launch centre"
+    ],
+    "nextSteps": [
+      "Build orbital pad(s), port & payload-integration facilities",
+      "progress to first commercial launches (ASC plans first launches 2026+ in initial announcements)",
+      "final operator / launch provider contracts to be signed"
+    ],
+    "advantages": [
+      "Mid-Atlantic position affords flexible azimuths (incl. easterly GTO-compatible trajectories not achievable from northern European mainland)",
+      "good downrange safety over open ocean",
+      "existing ESA TT&C / tracking assets in region"
+    ],
+    "disadvantages": [
+      "Island logistics & tourism sensitivities",
+      "environmental / permitting processes required",
+      "still early stage for firm launcher commitments (though many EOI responses exist)"
+    ],
+    "confidence": "internalDB"
+  },
+  {
+    "id": "north-sea-german-offshore-gosa-related-projects",
+    "name": "North Sea / German Offshore (GOSA & related projects)",
+    "location": "Mobile maritime platforms / German EEZ (Bremerhaven base)",
+    "country": "Germany (consortium)",
+    "launchType": "Offshore vertical (ship/ barge launch)",
+    "partners": [
+      "German Offshore Spaceport Alliance (GOSA) participants incl. OHB, RFA (LOIs historically), HyImpulse, Tractebel/industry partners",
+      "new OHB subsidiary European Spaceport Company (Nov 2025) to build mobile pads"
+    ],
+    "status": "Concept",
+    "status2025": "Concept / demo campaigns & platform development; multiple demo/test waves planned but subject to regulatory & environmental approvals; project experienced delays vs original 2024 target. OHB SE+1",
+    "compatibility": [
+      "Planned for microlaunchers: Isar, RFA, HyImpulse (interested)"
+    ],
+    "euInterest": [
+      "High (emerging): offers flexible azimuths and avoids overflight constraints",
+      "aligns with EU industrial autonomy goals"
+    ],
+    "euFunding": [
+      "Medium (potential): national funding + EU R&I / industrial funds possible",
+      "regulatory & environmental approvals required"
+    ],
+    "history": [
+      "2023–24: GOSA announced demo missions & partners",
+      "small suborbital demo launches planned (some postponed)",
+      "2025: government funding & studies progressing",
+      "OHB announced subsidiary for mobile pads. heise online"
+    ],
+    "nextSteps": [
+      "Complete demo campaigns → prototype maritime launch platform → progress to orbital-capable mobile pad (timeline multi-year)"
+    ],
+    "advantages": [
+      "Flexible azimuths & no overflight of populated land",
+      "attractive for countries with dense coastlines",
+      "mobile, relocatable solution"
+    ],
+    "disadvantages": [
+      "Maritime weather risk",
+      "complex marine ops & higher CapEx/OpEx",
+      "regulatory / environmental complexity across jurisdictions"
+    ],
+    "confidence": "internalDB"
+  },
+  {
+    "id": "el-hierro-canary-islands-spain-proposals",
+    "name": "El Hierro / Canary Islands (Spain — proposals)",
+    "location": "El Hierro (Canaries) / other islands proposed",
+    "country": "Spain",
+    "launchType": "Vertical (proposed)",
+    "partners": [
+      "Interested actors historically include PLD Space and Spanish / regional consortia"
+    ],
+    "status": "Concept",
+    "status2025": "Feasibility / studies stage; proposals discussed but no confirmed, licensed orbital site (2025)",
+    "compatibility": [
+      "Proposed for microlaunchers",
+      "PLD Space interest explored"
+    ],
+    "euInterest": [
+      "Low–Medium: attractive southern/Atlantic location but not advanced"
+    ],
+    "euFunding": [
+      "Low: no confirmed EU funding yet",
+      "potential national/regional support if advanced"
+    ],
+    "history": [
+      "Studies & proposals to leverage southern latitude & Atlantic downrange",
+      "PLD Space operates suborbital MIURA tests from El Arenosillo and explores orbital options"
+    ],
+    "nextSteps": [
+      "Further environmental & political approvals required",
+      "potential candidate for microlauncher operations if advanced"
+    ],
+    "advantages": [
+      "Good southern latitude / Atlantic downrange for a variety of inclinations",
+      "existing Spanish aerospace ecosystem (PLD, INTA)"
+    ],
+    "disadvantages": [
+      "Island environmental / tourism constraints",
+      "no confirmed operator or pad yet"
+    ],
+    "confidence": "internalDB"
+  },
+  {
+    "id": "el-arenosillo-test-range-cedea-inta",
+    "name": "El Arenosillo Test Range (CEDEA / INTA)",
+    "location": "Huelva (Andalusia)",
+    "country": "Spain",
+    "launchType": "Suborbital test range (sounding & suborbital rockets)",
+    "partners": [
+      "PLD Space (MIURA 1), INTA and national test users"
+    ],
+    "status": "Operational (suborbital)",
+    "status2025": "Operational for suborbital launches and test campaigns (MIURA-1 suborbital successes in recent years).",
+    "compatibility": [
+      "Suborbital: PLD Space MIURA-1 testing and other sounding rockets"
+    ],
+    "euInterest": [
+      "Low: useful test range but not orbital access"
+    ],
+    "euFunding": [
+      "Low: national funding for test activities",
+      "not an orbital funding priority"
+    ],
+    "history": [
+      "MIURA-1 suborbital campaign completed",
+      "used for propulsion & stage tests",
+      "mature safety corridors for suborbital flights"
+    ],
+    "nextSteps": [
+      "Continue as missile / suborbital test range",
+      "not currently set up for orbital pads"
+    ],
+    "advantages": [
+      "Established range infrastructure & regulatory processes",
+      "proximity to Spanish aerospace industry"
+    ],
+    "disadvantages": [
+      "Not an orbital spaceport",
+      "limited downrange for orbital missions"
+    ],
+    "confidence": "internalDB"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "Category": "Payload Capacity (t)",
+    "Sub-category": "LEO",
+    "MICRO / LIGHT LIFT": "<0.5 (Micro) / 0.5–2",
+    "LIGHT / SMALL LIFT": "0.5-2 / 2–9",
+    "MEDIUM LIFT": "2–20",
+    "HEAVY LIFT": "20-50",
+    "SUPER HEAVY LIFT": ">50 (for fully reusable designs)"
+  },
+  {
+    "Sub-category": "SSO",
+    "MICRO / LIGHT LIFT": "~1",
+    "LIGHT / SMALL LIFT": "2–4",
+    "MEDIUM LIFT": "6–15",
+    "HEAVY LIFT": "20–25",
+    "SUPER HEAVY LIFT": "60–100"
+  },
+  {
+    "Sub-category": "MEO",
+    "MICRO / LIGHT LIFT": "<0.5",
+    "LIGHT / SMALL LIFT": "1–2",
+    "MEDIUM LIFT": "4–8",
+    "HEAVY LIFT": "14",
+    "SUPER HEAVY LIFT": "40–70"
+  },
+  {
+    "Sub-category": "GEO",
+    "MICRO / LIGHT LIFT": "<0.3",
+    "LIGHT / SMALL LIFT": "0.5–1.5",
+    "MEDIUM LIFT": "3–6",
+    "HEAVY LIFT": "11.5",
+    "SUPER HEAVY LIFT": "30–50"
+  },
+  {
+    "Sub-category": "HEO / ESC",
+    "MICRO / LIGHT LIFT": "<0.1",
+    "LIGHT / SMALL LIFT": "<0.5",
+    "MEDIUM LIFT": "2–4",
+    "HEAVY LIFT": "8–10",
+    "SUPER HEAVY LIFT": "25–45"
+  },
+  {
+    "Category": "Cost Structure",
+    "Sub-category": "Launch cost (indicative)",
+    "MICRO / LIGHT LIFT": "1 – 15 M€",
+    "LIGHT / SMALL LIFT": "5 – 23 M€",
+    "MEDIUM LIFT": "10 – 95 M€",
+    "HEAVY LIFT": "45 – 235 M€",
+    "SUPER HEAVY LIFT": "19 – 235 M€"
+  },
+  {
+    "Sub-category": "Average cost per kg",
+    "MICRO / LIGHT LIFT": "5 – 28 k€/kg",
+    "LIGHT / SMALL LIFT": "5 – 28 k€/kg",
+    "MEDIUM LIFT": "5 – 28 k€/kg",
+    "HEAVY LIFT": "3 – 15 k€/kg",
+    "SUPER HEAVY LIFT": "185 - 16,000 €/kg (d/p if reusable models)"
+  },
+  {
+    "Category": "Representative Actors",
+    "Sub-category": "North America",
+    "MICRO / LIGHT LIFT": "– Rocket Lab (Electron) · – ABL Space (RS1)",
+    "LIGHT / SMALL LIFT": "– Firefly Aerospace (Alpha) · – Relativity Space (Terran 1)",
+    "MEDIUM LIFT": "– SpaceX (Falcon 9) · – ULA (Vulcan)",
+    "HEAVY LIFT": "– SpaceX (Falcon Heavy)",
+    "SUPER HEAVY LIFT": "– SpaceX (Starship) · – NASA (SLS)"
+  },
+  {
+    "Sub-category": "Europe",
+    "MICRO / LIGHT LIFT": "– PLD Space (Miura 5) (ES) · – Isar Aerospace (Spectrum) (DE) · – Orbex (Prime) (UK) · – HyImpulse (DE)?",
+    "LIGHT / SMALL LIFT": "– HyImpulse (SL1)?",
+    "MEDIUM LIFT": "– Avio / Arianespace (Vega-C → Vega-E) (IT/EU) · – Potential private entrants in scaling phase",
+    "HEAVY LIFT": "– Arianespace / ArianeGroup (Ariane 6.2 / 6.4) (FR/EU)",
+    "SUPER HEAVY LIFT": "– No operational EU system · – Future European reusable demonstrators (Themis, Ariane Next, Callisto) + HSTAR"
+  },
+  {
+    "Sub-category": "Asia",
+    "MICRO / LIGHT LIFT": "– i-Space (Hyperbola-1) · – Galactic Energy (Ceres-1)",
+    "LIGHT / SMALL LIFT": "– Rocket Pi (Darwin-1) · – Skyroot (Vikram)",
+    "MEDIUM LIFT": "– JAXA (H3) · – ISRO (PSLV)",
+    "HEAVY LIFT": "– ISRO (GSLV Mk III) · – CASC (Long March 5B)",
+    "SUPER HEAVY LIFT": "– CNSA (Long March 9)"
+  },
+  {
+    "Category": "Market",
+    "Sub-category": "Market Share (by launcher class)",
+    "MICRO / LIGHT LIFT": "~10% (and rising fast)",
+    "LIGHT / SMALL LIFT": "~10–15%",
+    "MEDIUM LIFT": "~35–40%",
+    "HEAVY LIFT": "~30–35%",
+    "SUPER HEAVY LIFT": "<5% (very low frequency)"
+  },
+  {
+    "Sub-category": "Market Share (global)",
+    "MICRO / LIGHT LIFT": "~8%",
+    "LIGHT / SMALL LIFT": "~12%",
+    "MEDIUM LIFT": "~40%",
+    "HEAVY LIFT": "~35%",
+    "SUPER HEAVY LIFT": "~5%"
+  },
+  {
+    "Category": "Technical Characteristics",
+    "Sub-category": "Stages",
+    "MICRO / LIGHT LIFT": "1–2",
+    "LIGHT / SMALL LIFT": "2",
+    "MEDIUM LIFT": "2–3",
+    "HEAVY LIFT": "2–3",
+    "SUPER HEAVY LIFT": "2–3 (with booster clusters)"
+  },
+  {
+    "Sub-category": "Propellants",
+    "MICRO / LIGHT LIFT": "– RP-1/LOX · – Hybrid (paraffin, HTP) · – Bio-propellant tests",
+    "LIGHT / SMALL LIFT": "– RP-1/LOX · – Methalox emerging",
+    "MEDIUM LIFT": "– Solid + liquid upper stage · – Methalox under testing",
+    "HEAVY LIFT": "– Methalox (Falcon, Vulcan) · – LH2/LOX (Ariane, Delta IV)",
+    "SUPER HEAVY LIFT": "– Methalox (Starship) · – LH2/LOX (SLS)"
+  },
+  {
+    "Sub-category": "Manufacturing approach",
+    "MICRO / LIGHT LIFT": "– 3D printing for engines · – Lightweight composites · – Mobile launch platforms",
+    "LIGHT / SMALL LIFT": "– Modular tanks · – Simplified avionics",
+    "MEDIUM LIFT": "– Semi-industrialised production · – ESA and CNES industrial clusters",
+    "HEAVY LIFT": "– Reusability partial (boosters) · – Cryogenic systems",
+    "SUPER HEAVY LIFT": "– Full reusability (Starship) · – Integrated systems"
+  },
+  {
+    "Sub-category": "Launch infrastructure",
+    "MICRO / LIGHT LIFT": "– Mobile or small-scale pad · – Minimal ground ops",
+    "LIGHT / SMALL LIFT": "– Regional small pads",
+    "MEDIUM LIFT": "– ESA CSG (Vega), Wallops, etc.",
+    "HEAVY LIFT": "– Major national ranges",
+    "SUPER HEAVY LIFT": "– Dedicated heavy pads (KSC, Baikonur, Wenchang)"
+  },
+  {
+    "Category": "Operational Profile",
+    "Sub-category": "Typical Fill Rate",
+    "MICRO / LIGHT LIFT": "0.5",
+    "LIGHT / SMALL LIFT": "50–60%",
+    "MEDIUM LIFT": "0.7",
+    "HEAVY LIFT": "80% (88% for Ariane 5)",
+    "SUPER HEAVY LIFT": "80–85%"
+  },
+  {
+    "Sub-category": "Launch Cadence (2024–25)",
+    "MICRO / LIGHT LIFT": "10–20/year",
+    "LIGHT / SMALL LIFT": "5–10/year",
+    "MEDIUM LIFT": "30–60/year",
+    "HEAVY LIFT": "20–40/year",
+    "SUPER HEAVY LIFT": "<10/year"
+  },
+  {
+    "Sub-category": "Primary Use Cases",
+    "MICRO / LIGHT LIFT": "– In-orbit tech demos · – Spectrum rights · – Early constellation deployment",
+    "LIGHT / SMALL LIFT": "– Small constellations · – Small/medium satellites · – Orbital plane split",
+    "MEDIUM LIFT": "– Multi-satellite missions · – Institutional and EO missions",
+    "HEAVY LIFT": "– GEO comsats · – Mega constellations",
+    "SUPER HEAVY LIFT": "– Crew, cargo to Moon/Mars · – Heavy infrastructure"
+  },
+  {
+    "Category": "Pros",
+    "MICRO / LIGHT LIFT": "– Dedicated access for smallsats · – Quick time-to-orbit · – Low complexity",
+    "LIGHT / SMALL LIFT": "– Niche constellations · – Rapid iteration",
+    "MEDIUM LIFT": "– Broad mission versatility · – Reasonable cost/kg",
+    "HEAVY LIFT": "– Mature, reliable tech · – Economies of scale",
+    "SUPER HEAVY LIFT": "– Ultimate payload capacity · – Reusability economics"
+  },
+  {
+    "Category": "Cons",
+    "MICRO / LIGHT LIFT": "– High €/kg · – Limited market size",
+    "LIGHT / SMALL LIFT": "– Limited supply, dev. delays",
+    "MEDIUM LIFT": "– Few commercial suppliers",
+    "HEAVY LIFT": "– Not suitable for small payloads",
+    "SUPER HEAVY LIFT": "– Limited supply (Falcon Heavy, SLS) · – Very high capex"
+  },
+  {
+    "Category": "Policy & Market Trends",
+    "Sub-category": "Strategic Evolution",
+    "MICRO / LIGHT LIFT": "– European startups emerging but capital-constrained · – Policy support via ESA Boost! and CASSINI",
+    "LIGHT / SMALL LIFT": "– Growing private entrants bridging to institutional market",
+    "MEDIUM LIFT": "– EU reliance on Vega C amid instability",
+    "HEAVY LIFT": "– Ariane 6 key transition launcher for Europe",
+    "SUPER HEAVY LIFT": "– U.S. dominance; Europe lacks heavy reusable counterpart"
+  },
+  {
+    "Category": "EU Access to Space Analysis (2025)",
+    "MICRO / LIGHT LIFT": "Fragmented but dynamic base: · – Europe developing a competitive micro-launcher ecosystem (Isar, PLD, Orbex) backed by ESA and national funds. · – Vega C ensures institutional continuity for medium lift, though recurrent delays harm reliability perception. · – Ariane 6 expected to reestablish heavy-lift autonomy post-2025, but the absence of a reusable system leaves Europe cost-handicapped vs. SpaceX. · – The upcoming Themis and Ariane Next demonstrators (2030 horizon) are vital for long-term sovereignty and cost parity."
+  },
+  {
+    "Sub-category": "EU Capability & Principal Actors",
+    "MICRO / LIGHT LIFT": "– PLD Space (Miura 5) (ES) · – Isar Aerospace (Spectrum) (DE) · – Orbex (Prime) (UK) · – HyImpulse (DE)",
+    "LIGHT / SMALL LIFT": "– Avio / Arianespace (Vega-C → Vega-E) (IT/EU) · – Potential private entrants in scaling phase",
+    "MEDIUM LIFT": "– Arianespace / ArianeGroup (Ariane 6.2 / 6.4) (FR/EU)",
+    "HEAVY LIFT": "– Same as medium (Ariane 6 heavy variant) · – Institutional operations via ESA / CNES",
+    "SUPER HEAVY LIFT": "– No operational EU system · – Demonstrators: Themis, Callisto, Ariane Next (CNES, ESA, ArianeGroup)"
+  },
+  {
+    "Sub-category": "Operational Status (2025)",
+    "MICRO / LIGHT LIFT": "– Early operational / flight test stage · – Spectrum maiden flight (2025) ended in failure · – Launch sites (e.g. SaxaVord, Andøya) maturing",
+    "LIGHT / SMALL LIFT": "– Vega-C back to flight (2025) after corrective campaign · – Vega-E under development (cryogenic upper stage)",
+    "MEDIUM LIFT": "– Ariane 6 now operational (first commercial flight March 2025) · – Target: 10–12 flights/year mid-term",
+    "HEAVY LIFT": "– Ariane 6 four-booster variant ensures heavy institutional lift",
+    "SUPER HEAVY LIFT": "– Only prototypes in testing · – Themis vertical take-off/landing tests ongoing · – No orbital vehicle before 2030"
+  },
+  {
+    "Sub-category": "Strategic Value for EU Autonomy",
+    "MICRO / LIGHT LIFT": "– Provides responsive access for smallsats and in-orbit demos · – Reduces dependency on foreign rideshares · – Enables tactical/defence missions",
+    "LIGHT / SMALL LIFT": "– Institutional bridge for EO, science, medium payloads · – Critical for continuity between small and heavy classes",
+    "MEDIUM LIFT": "– Ensures core EU institutional autonomy (Copernicus, Galileo, defence) · – Commercial offering for medium-to-large payloads",
+    "HEAVY LIFT": "– Maintains sovereign access to GEO · – Supports large institutional missions",
+    "SUPER HEAVY LIFT": "– Long-term strategic capability for lunar, cis-lunar, and infrastructure missions · – Would ensure full-spectrum autonomy"
+  },
+  {
+    "Sub-category": "Risks & Weaknesses",
+    "MICRO / LIGHT LIFT": "– Fragile economics (high €/kg) · – Limited institutional anchor demand · – Launch-site readiness delays",
+    "LIGHT / SMALL LIFT": "– Cost competitiveness vs. larger rideshares · – Industrial bottlenecks in upper stages",
+    "MEDIUM LIFT": "– Cost gap vs. reusable competitors (SpaceX) · – Need for high flight cadence to reach target cost",
+    "HEAVY LIFT": "– Limited reuse or cost efficiency · – Still vulnerable to U.S. price competition",
+    "SUPER HEAVY LIFT": "– Sovereignty gap: no EU system in service · – Long timelines and high CAPEX for future super-heavy"
+  },
+  {
+    "Sub-category": "Recommended EU Actions",
+    "MICRO / LIGHT LIFT": "– Institutional anchor missions (Copernicus cubesats, tech demos) · – Targeted ESA/CASSINI de-risking and procurement · – Accelerate licensing for EU launch sites",
+    "LIGHT / SMALL LIFT": "– Secure public institutional demand · – Accelerate Vega-E (methalox upper stage) · – Improve industrial throughput",
+    "MEDIUM LIFT": "– Streamline Ariane 6 production (digital integration) · – Commit funding to Ariane Next and Themis · – Ensure steady institutional manifest",
+    "HEAVY LIFT": "– Industrial cost reduction · – Prepare hybrid institutional–commercial contracts to stabilise cadence",
+    "SUPER HEAVY LIFT": "– Dual strategy: (a) Mature reusable tech (Themis/Ariane Next) · (b) Establish long-term partnerships with non-EU providers until EU heavy system exists"
+  },
+  {
+    "Sub-category": "Institutional Demand Role",
+    "MICRO / LIGHT LIFT": "– Should secure initial constellations and tech validation missions · – Opportunity for rapid-response defence and science payloads",
+    "LIGHT / SMALL LIFT": "– Leverage for EO and small scientific missions · – Balance between Vega-C and micro-launchers",
+    "MEDIUM LIFT": "– Institutional cornerstone (major missions, constellations) · – Essential to sustain EU industrial base",
+    "HEAVY LIFT": "– Heavy missions (Galileo upgrades, Copernicus new-gen)",
+    "SUPER HEAVY LIFT": "– Not currently needed for EU missions, but strategic for deep-space"
+  },
+  {
+    "Sub-category": "Industrial / Economic Impact",
+    "MICRO / LIGHT LIFT": "– Startups developing vertical industrial ecosystems · – Small but high-innovation clusters",
+    "LIGHT / SMALL LIFT": "– Strengthening Italian supply chain (Avio) · – Broader European participation",
+    "MEDIUM LIFT": "– Large European consortium (ArianeGroup, Safran, Airbus DS) · – Multinational subcontractor base",
+    "HEAVY LIFT": "– Sustains European heavy industrial know-how",
+    "SUPER HEAVY LIFT": "– Would create entirely new industrial tier (cryogenic reusables, carbon structures)"
+  },
+  {
+    "Sub-category": "Policy Alignment & Programmes",
+    "MICRO / LIGHT LIFT": "– ESA Boost!, CASSINI, national innovation funds · – Early ESA rideshare support",
+    "LIGHT / SMALL LIFT": "– ESA and EU Space Programme support (Copernicus, GOVSATCOM payloads)",
+    "MEDIUM LIFT": "– ESA/EC co-funded (Ariane 6 transition support, EGS)",
+    "HEAVY LIFT": "– ESA’s Transition Programme and CNES oversight",
+    "SUPER HEAVY LIFT": "– ESA Themis / Ariane Next technology roadmap (2030+)"
+  },
+  {
+    "Sub-category": "Market Context",
+    "MICRO / LIGHT LIFT": "– Global smallsat boom · – EU micro-launchers competing with Rocket Lab, Firefly",
+    "LIGHT / SMALL LIFT": "– Price pressure from rideshare on Falcon 9 / Transporter missions",
+    "MEDIUM LIFT": "– Commercial competition strong but stable institutional base",
+    "HEAVY LIFT": "– Declining GEO market but still key institutional need",
+    "SUPER HEAVY LIFT": "– U.S. and China dominate · – Europe remains absent from market"
+  },
+  {
+    "Sub-category": "Outlook (2025–2035)",
+    "MICRO / LIGHT LIFT": "– Consolidation phase (few survivors by 2030) · – Potential state-backed operators emerge",
+    "LIGHT / SMALL LIFT": "– Vega-E as long-term EU mid-capacity solution",
+    "MEDIUM LIFT": "– Ariane 6 → Ariane Next transition defines cost curve",
+    "HEAVY LIFT": "– Move toward partial reusability (boosters)",
+    "SUPER HEAVY LIFT": "– Ariane Next / Themis prototype flights expected late 2020s · – EU considering cis-lunar cooperation"
+  },
+  {
+    "Sub-category": "Strategic Priority (EU View)",
+    "MICRO / LIGHT LIFT": "High (innovation & sovereignty segment)",
+    "LIGHT / SMALL LIFT": "High (bridging segment)",
+    "MEDIUM LIFT": "Very High (institutional autonomy)",
+    "HEAVY LIFT": "High (strategic missions continuity)",
+    "SUPER HEAVY LIFT": "Long-term critical (2030 horizon)"
+  }
+]

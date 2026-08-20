@@ -1,0 +1,294 @@
+[
+  {
+    "scope": "launcher-use",
+    "fields": {
+      "Use / Role": "Main / strap-on boosters (first stage ignition) 🔥",
+      "Propulsion family & typical technology": "— Solid propulsion (HTPB/AP/Al composite) — large monolithic composite casings (filament-wound).",
+      "Key KPIs / typical values (EU-relevant)": "— P120C: propellant mass ≈ 143.6 t, thrust ≈ 4,500 kN, Isp ≈ 278 s, burn ≈ 133 s.",
+      "European examples / institutional missions": "— P120C: used in Vega-C first stage and Ariane-6 strap-on boosters (2 or 4 depending on config).",
+      "Critical entities": "— Avio (IT) — P120C production & composite casing— Suppliers of fibres/resins, aluminium powder— ESA test centres (Kourou, Sardinia)",
+      "Risk identification": "— Single-point dependency (Avio).— Limited EU composite winding capacity.— Dependence on non-EU suppliers for raw fibres and binders.— Industrial accident risk halting production.",
+      "Technology & supply mapping": "— Components: filament-wound casing, solid propellant, nozzle, igniter.— Supply chain: EU-based but depends on imported resin & Al.",
+      "Market / Supply-chain analysis (figures & KPIs)": "— Global space economy ≈ €53B (2023); launch segment ≈ 20% → €10.6B (ESA data).— KPI: ensure ≥80% P120C capacity under EU control by 2028.— Cost per booster: ~€10–12M.",
+      "Strategic & political impact": "— High: EU access to space hinges on this single line.— Loss = strategic dependency on non-EU launchers.",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— EC/ESA to secure P120C continuity via long-term procurement contracts & CAPEX support.— Build second composite line (Italy or France).— KPI: 10 boosters/month capacity by 2028.— Stockpile key raw materials (resins, HTPB) under CRMA."
+    },
+    "id": "launcher-use-main-strap-on-boosters-first-stage-ig",
+    "title": "Main / strap-on boosters (first stage ignition) 🔥"
+  },
+  {
+    "scope": "launcher-use",
+    "fields": {
+      "Use / Role": "Main cryogenic core stage (LOX/LH₂) 💧",
+      "Propulsion family & typical technology": "— Cryogenic engine, gas-generator cycle (e.g. Vulcain 2.1).",
+      "Key KPIs / typical values (EU-relevant)": "— Thrust ≈ 1,370 kN (vac); burn ≈ 10 min.— Specific impulse ≈ 431 s (vac).",
+      "European examples / institutional missions": "— Ariane 6: core stage powered by Vulcain 2.1; payloads up to 21.6 t (LEO) / 11.5 t (GTO).",
+      "Critical entities": "— ArianeGroup (FR/DE), Safran, DLR, ESA; precision alloy and turbopump suppliers.",
+      "Risk identification": "— Dependence on limited EU turbopump & valve suppliers.— High cost (~€20–30 M/engine).— Critical testing infrastructure bottleneck.",
+      "Technology & supply mapping": "— Core subsystems: combustion chamber, turbopumps, valves, cryo lines.— Dependence on imported Ni-based alloys & coating tech.",
+      "Market / Supply-chain analysis (figures & KPIs)": "— Estimated Ariane-6 unit cost: €100–115 M (A62/A64).— KPI: 25% cost reduction by 2032 through Prometheus/Ariane Next.— 70% of critical alloys imported.",
+      "Strategic & political impact": "— Very high: any disruption threatens EU institutional launches (Galileo, Copernicus).— Strategic for autonomy & defence payloads.",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— Support industrial scale-up: €100–250 M under EDF/IPCEI “Turbomachinery EU”.— Incentivise EU alloy production.— EC guarantees minimum Ariane-6 institutional missions.— KPI: cost/unit ↓ 25% & <30% non-EU alloys by 2030."
+    },
+    "id": "launcher-use-main-cryogenic-core-stage-lox-lh",
+    "title": "Main cryogenic core stage (LOX/LH₂) 💧"
+  },
+  {
+    "scope": "launcher-use",
+    "fields": {
+      "Use / Role": "Cryogenic upper stage (VINCI engine) 🧠",
+      "Propulsion family & typical technology": "— Restartable expander cycle (LOX/LH₂) for precise orbital injection.",
+      "Key KPIs / typical values (EU-relevant)": "— VINCI thrust ≈ 180 kN (vac).— Up to 5 restarts, Isp ≈ 457 s.",
+      "European examples / institutional missions": "— Ariane 6 upper stage, enabling multiple payload deliveries.",
+      "Critical entities": "— ArianeGroup / Safran, valve and actuator suppliers.",
+      "Risk identification": "— Restart system complexity (APU reliability).— Avionics and mission software sensitivity.— Qualification delays = reduced market competitiveness.",
+      "Technology & supply mapping": "— Tech: expander engine, nozzle extension, Auxiliary Power Unit (APU).",
+      "Market / Supply-chain analysis (figures & KPIs)": "— Commercial demand for multi-orbit injection missions (rideshare).— KPI: certify ≥3 restarts by 2028.",
+      "Strategic & political impact": "— High strategic value: supports competitive European launch services.",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— Fund additional APU testing under Horizon/ESA.— Add redundancy in pressurisation systems.— KPI: VINCI qualified for ≥3 restarts by 2028."
+    },
+    "id": "launcher-use-cryogenic-upper-stage-vinci-engine",
+    "title": "Cryogenic upper stage (VINCI engine) 🧠"
+  },
+  {
+    "scope": "launcher-use",
+    "fields": {
+      "Use / Role": "Intermediate stages (Zefiro family, AVUM+) 🛰️",
+      "Propulsion family & typical technology": "— Solid (Zefiro 40/23/9) + AVUM+ liquid upper (UDMH/N₂O₄).",
+      "Key KPIs / typical values (EU-relevant)": "— Vega-C: capacity ≈ 2.3 t (SSO 700 km).— Zefiro-40 propellant ≈ 36.2 t.",
+      "European examples / institutional missions": "— Vega-C for institutional smallsat launches (Copernicus, rideshare).",
+      "Critical entities": "— Avio (IT), ESA primes, nozzle & composite suppliers.",
+      "Risk identification": "— Quality and reliability issues (nozzle defects).— Small-launcher segment vulnerable (single-point failure risk).",
+      "Technology & supply mapping": "— Zefiro casings, propellant casting, AVUM+ engine.— Few EU nozzle producers.",
+      "Market / Supply-chain analysis (figures & KPIs)": "— Growing small-launcher market: +8–10% CAGR.— KPI: ≥3 qualified EU suppliers by 2028.",
+      "Strategic & political impact": "— High: smallsat access to orbit (Copernicus, GOVSATCOM).",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— Fund requalification & dual-sourcing of nozzles.— Create EU “industrial recovery fund” for launcher continuity.— KPI: reduce Vega production downtime <3 months."
+    },
+    "id": "launcher-use-intermediate-stages-zefiro-family-avum",
+    "title": "Intermediate stages (Zefiro family, AVUM+) 🛰️"
+  },
+  {
+    "scope": "launcher-use",
+    "fields": {
+      "Use / Role": "Reusable demonstrators (Prometheus, Themis) 🔁",
+      "Propulsion family & typical technology": "— LOX/CH₄ reusable engine, additive manufacturing (3D printed).",
+      "Key KPIs / typical values (EU-relevant)": "— Target cost ≈ €1 M/engine (10× cheaper than Vulcain).— Thrust ≈ 980 kN (100 t).— Reuse cycles: ≥ 5.— Chamber pressure ≈ 100 bar.",
+      "European examples / institutional missions": "— Prometheus (ESA/ArianeGroup).— Themis reusable stage demonstrator.— ESA/EC projects under SALTO, Ariane Next.",
+      "Critical entities": "— ArianeGroup (FR), CNES, DLR, 3D printing suppliers (GKN, Safran Additive).",
+      "Risk identification": "— Technical maturity & cost overrun risks.— Thermal fatigue and reusability testing delays.— Synchronisation of EC/ESA/industry timelines.",
+      "Technology & supply mapping": "— 3D-printed turbopumps, regeneratively cooled chamber, guidance/landing avionics, reusable legs.",
+      "Market / Supply-chain analysis (figures & KPIs)": "— R&D cost: €200–500 M through 2030.— KPI: ≥1 reusable hop test validated by 2026.",
+      "Strategic & political impact": "— Extremely high: reusability is key for EU launch cost competitiveness vs SpaceX.— Strategic for economic security & autonomy.",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— EC/ESA co-fund Prometheus/Themis (€200–500 M).— Create EU regulatory framework for reusable flights.— Develop test sites (Vernon, Esrange).— KPI: reusable engine validated by 2028; cost ↓ 40% by 2032."
+    },
+    "id": "launcher-use-reusable-demonstrators-prometheus-them",
+    "title": "Reusable demonstrators (Prometheus, Themis) 🔁"
+  },
+  {
+    "scope": "launcher-use",
+    "fields": {
+      "Use / Role": "Critical subsystems (turbopumps, valves, nozzles) ⚙️",
+      "Propulsion family & typical technology": "— High-speed cryogenic turbopumps, precision valves, thermal-resistant nozzles, advanced alloys.",
+      "Key KPIs / typical values (EU-relevant)": "— Lead time: 12–24 months.— Certification per turbopump > €10 M.",
+      "European examples / institutional missions": "— Used across Ariane & Vega propulsion chains.",
+      "Critical entities": "— ArianeGroup, MT Aerospace, Avio, metal/alloy suppliers (DE, FR, IT).",
+      "Risk identification": "— 70% import dependency for key alloys (Ni, Ti, Nb).— Exposure to US export controls (ITAR).",
+      "Technology & supply mapping": "— Machining, coating, and cryogenic testing infrastructure limited in EU.",
+      "Market / Supply-chain analysis (figures & KPIs)": "— CAPEX need: €100–250 M for on-shoring production.— KPI: 1 EU turbopump line by 2028.",
+      "Strategic & political impact": "— Very high dual-use relevance (civil & defence).",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— Establish IPCEI “Turbomachinery Europe” (€100–250 M).— Strategic stock of alloys & coatings.— KPI: <30% non-EU alloy use by 2030."
+    },
+    "id": "launcher-use-critical-subsystems-turbopumps-valves",
+    "title": "Critical subsystems (turbopumps, valves, nozzles) ⚙️"
+  },
+  {
+    "scope": "launcher-tech",
+    "fields": {
+      "🔧 Technology Area": "Solid Composite Motors (P120C & evolutions) 🧱",
+      "🌍 EU Positioning / Capabilities": "— World-class in composite solid booster tech (Avio / Europropulsion). · — P120C: 142–143.6 t propellant; thrust ≈ 4,500 kN; burn ≈133 s. · — Used in Ariane 6 & Vega C.",
+      "🇺🇸🇨🇳 Comparison (US/China)": "— Comparable to US/China solid stages. · — 🇺🇸 Higher production cadence (Northrop, SpaceX SRBs). · — 🇨🇳 Large solid ICBM crossover, high strategic density.",
+      "⚠️ Risk Identification & Vulnerabilities": "— Dependence on imported carbon fibres & epoxy resins. · — Limited filament-winding lines (only 1 high-volume in EU). · — Aluminium powder partially imported.",
+      "🧩 Supply Chain Mapping (Key EU & non-EU Actors)": "— EU: Avio (IT), Europropulsion (FR), ArianeGroup. · — Materials: EU + imported fibres/resins. · — Test/integration: Guiana Space Centre, Sardinia test site.",
+      "📉 Market / Industrial KPIs": "— EU solid motor market ≈ €700–900 M/yr. · — P120C line capacity: ~8–10 units/year. · — KPI: ≥2 EU resin/fibre suppliers qualified by 2027.",
+      "🧠 Strategic & Political Impact": "— High strategic value: autonomy of access to space (A6, Vega-C). · — Dual-use potential (launchers ↔ military solid boosters).",
+      "🛡️ Proposed EC/COM Mitigations & Actions": "— Create 2nd composite casing line & resin supply in EU. · — Launch IPCEI on propellant materials (€150–200 M). · — KPI: 100% EU-sourced carbon fibre by 2030."
+    },
+    "id": "launcher-tech-solid-composite-motors-p120c-evolutio",
+    "title": "Solid Composite Motors (P120C & evolutions) 🧱"
+  },
+  {
+    "scope": "launcher-tech",
+    "fields": {
+      "🔧 Technology Area": "Cryogenic Main Engines (Vulcain 2.1, LOX/LH₂) 🔥",
+      "🌍 EU Positioning / Capabilities": "— Proven high-Isp LOX/LH₂ engine (Vulcain 2.1). · — Thrust ≈ 1,371 kN (vac), turbopump ≈ 15 MW. · — Strong EU cryogenics & turbomachinery heritage.",
+      "🇺🇸🇨🇳 Comparison (US/China)": "— 🇺🇸 SpaceX Merlin (845 kN) cheaper, reusable, kerolox. · — 🇨🇳 Similar LOX/kerosene engines, increasing reliability. · — EU behind in reusability & cost.",
+      "⚠️ Risk Identification & Vulnerabilities": "— Dependence on non-EU alloys (Ni/Ti/Nb). · — Long turbopump lead times (12–24 months). · — Limited high-pressure test benches.",
+      "🧩 Supply Chain Mapping (Key EU & non-EU Actors)": "— EU: ArianeGroup (FR/DE), Safran (Air Liquide partner). · — Suppliers: precision machining SMEs (DE, IT, FR). · — Materials: US/JP alloy exposure > 60%.",
+      "📉 Market / Industrial KPIs": "— Ariane 6 market share target: 30–40% commercial GTO. · — Isp ≈ 431 s (vac), chamber p ~117 bar. · — KPI: reduce alloy imports < 30% by 2030.",
+      "🧠 Strategic & Political Impact": "— Strategic for sovereignty (core access to orbit). · — Risk of launch cadence disruption if turbopump/valve supply fails.",
+      "🛡️ Proposed EC/COM Mitigations & Actions": "— Fund EU Turbomachinery IPCEI (€250–350 M). · — Build EU alloy foundry under NZIA/CRMA. · — KPI: EU-based turbopump prod. by 2028."
+    },
+    "id": "launcher-tech-cryogenic-main-engines-vulcain-2-1-lox",
+    "title": "Cryogenic Main Engines (Vulcain 2.1, LOX/LH₂) 🔥"
+  },
+  {
+    "scope": "launcher-tech",
+    "fields": {
+      "🔧 Technology Area": "Cryogenic Upper Engines (VINCI) 🧭",
+      "🌍 EU Positioning / Capabilities": "— Restartable engine for multi-burn precision (VINCI). · — Thrust ≈ 180 kN (vac), Isp ≈ 457 s, multiple restarts. · — Critical for multi-orbit deployment.",
+      "🇺🇸🇨🇳 Comparison (US/China)": "— 🇺🇸 RL10C (Aerojet) similar tech but industrial scale. · — 🇨🇳 Upper-stage restart tech advancing quickly.",
+      "⚠️ Risk Identification & Vulnerabilities": "— Supply risk: high-temp alloys, iridium coatings. · — Electronics for control units (non-EU dependency).",
+      "🧩 Supply Chain Mapping (Key EU & non-EU Actors)": "— EU: ArianeGroup (FR/DE). · — Suppliers: few high-temp coating firms. · — Testing: ESA Lampoldshausen.",
+      "📉 Market / Industrial KPIs": "— EU cryogenic engine mkt ≈ €400–600 M/yr. · — KPI: ≥2 qualified coating suppliers by 2028.",
+      "🧠 Strategic & Political Impact": "— High precision insertion = independence for Galileo/Copernicus. · — Loss of restart capability → loss of competitiveness.",
+      "🛡️ Proposed EC/COM Mitigations & Actions": "— EC/ESA to co-fund restart electronics localisation (€50 M). · — Add coating tech to EU Critical Entities List. · — KPI: 80% EU restart tech autonomy by 2028."
+    },
+    "id": "launcher-tech-cryogenic-upper-engines-vinci",
+    "title": "Cryogenic Upper Engines (VINCI) 🧭"
+  },
+  {
+    "scope": "launcher-tech",
+    "fields": {
+      "🔧 Technology Area": "Reusable Methane Engines (Prometheus/Themis) 🪙",
+      "🌍 EU Positioning / Capabilities": "— LOX/CH₄ engine (Prometheus) ≈ 1 MN thrust; cost target ≈ €1 M/unit. · — Additive manufacturing & reusability: > 90% printed parts. · — Themis: reusable first stage demonstrator.",
+      "🇺🇸🇨🇳 Comparison (US/China)": "— 🇺🇸 Raptor (>2 MN, 10–20 reuse cycles) → mass production. · — 🇨🇳 Multiple CH₄ engines (150–300 bar) testing; reusability in progress.",
+      "⚠️ Risk Identification & Vulnerabilities": "— AM powder & machine dependence (US/JP). · — Lack of certified reusable material standards in EU. · — No EU serial production line yet.",
+      "🧩 Supply Chain Mapping (Key EU & non-EU Actors)": "— EU: ArianeGroup, CNES, DLR, ESA. · — AM providers: BEAMIT (IT), AddUp (FR), but powder import > 60%.",
+      "📉 Market / Industrial KPIs": "— Prometheus unit cost target €1 M vs Merlin €0.25 M. · — Chamber p ≈ 100 bar; reuse goal ≥ 5 cycles. · — KPI: cost ≤ €1 M & ≥ 5 reuses by 2028.",
+      "🧠 Strategic & Political Impact": "— Strategic tech for cost parity & autonomy. · — Symbol of EU New Space competitiveness.",
+      "🛡️ Proposed EC/COM Mitigations & Actions": "— Co-fund Prometheus/Themis industrialisation (€300–500 M). · — Establish EU AM certification programme (EASA/ESA). · — KPI: EU methane engine qualified for flight by 2028."
+    },
+    "id": "launcher-tech-reusable-methane-engines-prometheus-the",
+    "title": "Reusable Methane Engines (Prometheus/Themis) 🪙"
+  },
+  {
+    "scope": "launcher-tech",
+    "fields": {
+      "🔧 Technology Area": "Turbopumps, Valves, Injectors (subsystems) ⚙️",
+      "🌍 EU Positioning / Capabilities": "— High skill but few producers. · — Key for cryogenic propulsion. · — Lead times 12–24 months.",
+      "🇺🇸🇨🇳 Comparison (US/China)": "— 🇺🇸 Vertically integrated (SpaceX, Blue Origin). · — 🇨🇳 Rapid scaling; redundancy > EU.",
+      "⚠️ Risk Identification & Vulnerabilities": "— Precision metallurgy & alloy import dependency. · — Supplier concentration (≤ 3 firms in EU). · — Long qualification cycles.",
+      "🧩 Supply Chain Mapping (Key EU & non-EU Actors)": "— EU: MT Aerospace (DE), Safran Aero Boosters (BE). · — Raw materials: Ni/Ti/Nb imported from US/JP.",
+      "📉 Market / Industrial KPIs": "— Cost ≈ €1–2 M per unit. · — Market ≈ €200–300 M/yr. · — KPI: ≥ 2 EU turbopump lines by 2030.",
+      "🧠 Strategic & Political Impact": "— Critical node: any failure halts Ariane 6 & Vega-E production.",
+      "🛡️ Proposed EC/COM Mitigations & Actions": "— Launch EU Turbomachinery Facility (Horizon + IPCEI). · — Develop EU alloy recycling loop (NZIA). · — KPI: ≤ 30% non-EU metals by 2030."
+    },
+    "id": "launcher-tech-turbopumps-valves-injectors-subsystem",
+    "title": "Turbopumps, Valves, Injectors (subsystems) ⚙️"
+  },
+  {
+    "scope": "launcher-tech",
+    "fields": {
+      "🔧 Technology Area": "Additive Manufacturing (AM) for propulsion parts) 🧩",
+      "🌍 EU Positioning / Capabilities": "— Rapid growth → AM parts in Prometheus & VINCI nozzles. · — Key for cost reduction & reusability.",
+      "🇺🇸🇨🇳 Comparison (US/China)": "— 🇺🇸 Mature (>80% of new engines include AM parts). · — 🇨🇳 Building national AM networks for engines.",
+      "⚠️ Risk Identification & Vulnerabilities": "— AM powder supply non-EU (US/JP > 70%). · — Limited EU certification labs.",
+      "🧩 Supply Chain Mapping (Key EU & non-EU Actors)": "— EU: AddUp (FR), EOS (DE, with non-EU powder), BEAMIT (IT). · — Powder: imported superalloys.",
+      "📉 Market / Industrial KPIs": "— AM engine market CAGR ≈ 12%. · — KPI: 3 EU certified AM powder lines by 2028.",
+      "🧠 Strategic & Political Impact": "— High strategic potential to lower cost & build autonomy.",
+      "🛡️ Proposed EC/COM Mitigations & Actions": "— Create EU AM Certification Centre (EC+ESA). · — Support EU powder production (€100–150 M). · — KPI: ≥ 60% EU powder self-sufficiency by 2030."
+    },
+    "id": "launcher-tech-additive-manufacturing-am-for-propulsi",
+    "title": "Additive Manufacturing (AM) for propulsion parts) 🧩"
+  },
+  {
+    "scope": "launcher-tech",
+    "fields": {
+      "🔧 Technology Area": "Composite & Advanced Materials (resins, alloys, fibres) 🧪",
+      "🌍 EU Positioning / Capabilities": "— Critical across solids & cryogenics. · — EU leadership in carbon structures but resin dependency.",
+      "🇺🇸🇨🇳 Comparison (US/China)": "— 🇺🇸 Broader domestic material supply base. · — 🇨🇳 Government-backed mass production of fibres/resins.",
+      "⚠️ Risk Identification & Vulnerabilities": "— Imported resins & fibres (> 50% non-EU). · — Limited high-temp resin suppliers.",
+      "🧩 Supply Chain Mapping (Key EU & non-EU Actors)": "— EU: Solvay (BE), Toray EU subsidiary, Hexcel FR. · — Imports: US/JP resins, fibres.",
+      "📉 Market / Industrial KPIs": "— Materials market ≈ €1.5 B in EU space. · — KPI: 2 EU resin plants by 2029.",
+      "🧠 Strategic & Political Impact": "— Material coercion = direct threat to launcher cadence.",
+      "🛡️ Proposed EC/COM Mitigations & Actions": "— Include resins/fibres in Critical Raw Materials Act list. · — Fund EU resin plant (€80–120 M). · — KPI: ≥ 80% EU resin autonomy by 2030."
+    },
+    "id": "launcher-tech-composite-advanced-materials-resins",
+    "title": "Composite & Advanced Materials (resins, alloys, fibres) 🧪"
+  },
+  {
+    "scope": "satellite",
+    "fields": {
+      "Use / Role": "Orbit raising (GEO / MEO / transfer) 🔼 (injection --> ope orbit)",
+      "Propulsion family & typical tech": "— Electric propulsion (SEP): Hall-effect thrusters (HET), gridded ion thrusters; emerging options: Krypton / Iodine.",
+      "Key KPIs / typical values (Europe-relevant)": "— Isp: ~1,000–4,000 s (HET ≈ 1,100–1,800 s; gridded up to >3,000 s) · — Thrust: tens → several hundreds mN · — Power: ~1 → 20+ kW (med sats) · — ΔV: several 100s → >1,000 m/s (trade time for propellant)",
+      "European examples / institutional missions": "— NEOSAT / Eurostar Neo / Spacebus Neo: full-electric orbit raising & station-keeping for 3–7 t GEO telecoms · — BepiColombo SEP heritage · — Galileo 2G planning (hybrid/electric options)",
+      "Critical entities": "EU primes (Airbus DS, Thales Alenia Space), PPU integrators, xenon distributors",
+      "Risk identification": "— Dependence on non-EU PPUs and cathode/coating suppliers · — Concentrated xenon procurement (global suppliers) · — Thruster erosion & lifetime limits · — Long time-to-orbit exposure for satellites using full electric OR",
+      "Technology & supply mapping": "— Thrusters: HET (kW-class), gridded ion units · — PPUs: high-voltage power electronics · — Propellant: xenon/krypton/iodine tanks and feed systems · — Power: high-power solar arrays, thermal control · — Manufacturers: Airbus DS, Thales Alenia, QinetiQ (UK), specialised PPU firms",
+      "Market / Supply-chain analysis (figures & KPIs)": "— Global xenon market ≈ USD 228–267M (2023 est.), projected to ~USD 300–340M by 2030–32 (CAGR ~2–7%) · — Electric propulsion satellite market ≈ USD 17B by 2025 (CAGR ~8–11%) · — Xenon cylinder lead times: months under high demand · — KPI (EC): secure ≥70% of institutional xenon via EU stockpile/contracts by 2030",
+      "Strategic & political impact": "— High: SEP ensures sovereignty in GEO comms & EO · — Xenon supply = geopolitical vulnerability · — Dual-use relevance (defence ISR, MEO coverage)",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— 2025–27: EU xenon stockpile & emergency procurement · — 2026–30: IPCEI/HE/EDF/Cassini/.. co-funding (€150–300M) for PPUs/cathodes + iodine/krypton thruster R&D · — 2030 goal: secure SEP soverignity under CRMA, ≥70% EU-sourced PPUs/thrusters; iodine/krypton certified · — KPI: <20% non-EU dependency by 2028"
+    },
+    "id": "satellite-orbit-raising-geo-meo-transfer",
+    "title": "Orbit raising (GEO / MEO / transfer) 🔼 (injection --> ope orbit)"
+  },
+  {
+    "scope": "satellite",
+    "fields": {
+      "Use / Role": "Station-keeping & fine orbit control (GEO, MEO, LEO) 🔁",
+      "Propulsion family & typical tech": "— Electric (HET) for GEO; Monoprop (hydrazine) for LEO/MEO; green monoprop alternatives in qualification",
+      "Key KPIs / typical values (Europe-relevant)": "— Station-keeping: GEO ~1–50 m/s/yr · — Electric reduces propellant mass by 30–40%",
+      "European examples / institutional missions": "— Eurostar Neo (GEO) full-electric · — Galileo 2G / NEOSAT · — Copernicus Sentinels (monoprop AOCS)",
+      "Critical entities": "ESA primes, hydrazine manufacturers, valve specialists",
+      "Risk identification": "— Erosion/lifetime issues; plume contamination · — Hydrazine toxicity; valve/catalyst supplier concentration",
+      "Technology & supply mapping": "— HETs, monoprop thrusters, catalyst beds, valves, regulators · — Suppliers: Moog, Bradford, Nammo/ECAPS",
+      "Market / Supply-chain analysis (figures & KPIs)": "— Hydrazine market small but critical · — Catalyst/valve suppliers ≤3 in EU · — KPI: ≥2 qualified EU suppliers per subsystem by 2027 · — Hydrazine logistics add €0.5–2k/kg to costs",
+      "Strategic & political impact": "— Medium-high: service continuity for telecom, Galileo, Copernicus · — REACH regulation risk; potential service delays",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— R&I: Fund REACH-compliant green monoprop qualification (Horizon, ESA); qualify new catalysts · — Shared EU hydrazine centres with certification; incentivize EU sourcing; contamination standards via ESA/CNES harmonization · — KPI: 30–50% institutional AOCS green by 2030"
+    },
+    "id": "satellite-station-keeping-fine-orbit-control-ge",
+    "title": "Station-keeping & fine orbit control (GEO, MEO, LEO) 🔁"
+  },
+  {
+    "scope": "satellite",
+    "fields": {
+      "Use / Role": "Attitude control, momentum desaturation, small ΔV 🧭",
+      "Propulsion family & typical tech": "— Monopropellant (hydrazine) thrusters 1–50 N; emerging green monopropellant (LMP-103S, HPGP)",
+      "Key KPIs / typical values (Europe-relevant)": "— Thrust: 1–50 N (for reaction ctrl), common: 1N monoprop thrusters OCT/AOCS · — Sentinel-2 hydrazine ≈120 kg · — Smallsat AOCS: few kg/year",
+      "European examples / institutional missions": "— Copernicus Sentinels (AOCS, deorbit) · — SmallSats use cold gas/monoprop",
+      "Critical entities": "hydrazine producers, thruster vendors, Copernicus primes",
+      "Risk identification": "— Toxic hydrazine handling; catalyst/valve single-source; obsolescence",
+      "Technology & supply mapping": "— Thruster clusters, catalysts, tanks, regulators · — EU: Airbus DS, Thales, Nammo, Moog",
+      "Market / Supply-chain analysis (figures & KPIs)": "— Few EU qualified suppliers · — Lead time: 3–12 months · — KPI: ≥2 EU suppliers per subsystem by 2026 · — Cost: €20–40M per green-propellant qualification",
+      "Strategic & political impact": "— Medium: operational continuity & REACH constraints · — Green fuels improve autonomy & safety",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— Invest €30–60M (2025–28) for green monoprop flight demos and qualification · — Hydrazine phase-out roadmap to 2032; establish EU redundancy in catalyst production; improve training and facilities compliance (ESA CleanSat, EC Safety Directive) · — KPI: first EU institutional green monoprop launch by 2028"
+    },
+    "id": "satellite-attitude-control-momentum-desaturation",
+    "title": "Attitude control, momentum desaturation, small ΔV 🧭"
+  },
+  {
+    "scope": "satellite",
+    "fields": {
+      "Use / Role": "Reaction Control System (large platforms / deorbit / orbit lowering) 🔻",
+      "Propulsion family & typical tech": "— Bipropellant (MMH/N₂O₄) or monoprop; pressure-fed/turbopump-fed",
+      "Key KPIs / typical values (Europe-relevant)": "— Isp: ~300–330 s (biprop, higher T and Isp, used for large deorbit/maneuvers) · — Thrust: 10s–100s N · — Restart capability",
+      "European examples / institutional missions": "— Telecom & science platforms · — ESA heritage (ATV, service modules)",
+      "Critical entities": "subsystem integrators, metallurgical suppliers",
+      "Risk identification": "— Turbopump & precision metallurgy dependencies · — Export control (ITAR)",
+      "Technology & supply mapping": "— Engines, turbopumps, valves, ignition systems · — Suppliers: ArianeGroup, precision alloy producers",
+      "Market / Supply-chain analysis (figures & KPIs)": "— Alloy supply 70% imported (US, JP) · — Lead time 12–24 months · — KPI: 1 EU turbopump line by 2028 · — Public R&D: €100–250M needed",
+      "Strategic & political impact": "— High: strategic for large missions; dual-use; autonomy at risk",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— Fund: IPCEI “Turbomachinery Europe” (€100–250M) to create onshore turbopump & valve manufacturing + metallurgy · — EU procurement guarantees; support standardization and certification within ESA/EC frameworks · — KPI: <30% non-EU alloy parts by 2030"
+    },
+    "id": "satellite-reaction-control-system-large-platforms",
+    "title": "Reaction Control System (large platforms / deorbit / orbit lowering) 🔻"
+  },
+  {
+    "scope": "satellite",
+    "fields": {
+      "Use / Role": "Deep space / High-ΔV science missions 🌌",
+      "Propulsion family & typical tech": "— Gridded ion thrusters / high-power HET / advanced concepts (VASIMR, Hall high-Isp)",
+      "Key KPIs / typical values (Europe-relevant)": "— Isp: >3,000 s · — Power: 10s–100s kW · — Thrust: mN–N (high cumulative ΔV)",
+      "European examples / institutional missions": "— BepiColombo (QinetiQ T6), Hera, Athena",
+      "Critical entities": "ESA labs, Airbus Defence & Space, Thales Alenia Space, QinetiQ (UK) suppliers",
+      "Risk identification": "— Dependence on UK/US electronics · — Exotic cathodes (iridium/tantalum)",
+      "Technology & supply mapping": "— High-power PPUs, solar arrays, cathodes · — ESA labs, Airbus, Thales, QinetiQ (UK)",
+      "Market / Supply-chain analysis (figures & KPIs)": "— Market nascent; demo cost €100–400M · — KPI: fund 1–2 EU high-power SEP demos by 2028 · — Secure iridium/tantalum imports under EU framework",
+      "Strategic & political impact": "— Very high: deep-space = strategic & tech leadership · — Dependence undermines sovereignty",
+      "Proposed mitigations (EC/COM recommendations & KPIs)": "— Co-fund: next-gen SEP demonstrators --> 2 large SEP demos (€200–400M) · — Create EU SEP centre-of-excellence; integrate EU solar array manufacturing (Enrichment under Net-Zero Industry Act (NZIA)); strengthen EU control on space-grade material sourcing · — Secure EU supply for high-voltage PPUs & materials"
+    },
+    "id": "satellite-deep-space-high-v-science-missions",
+    "title": "Deep space / High-ΔV science missions 🌌"
+  }
+]
